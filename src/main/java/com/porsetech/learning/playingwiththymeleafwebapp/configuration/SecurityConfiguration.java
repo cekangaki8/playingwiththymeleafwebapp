@@ -13,7 +13,14 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
         httpSecurity.authorizeRequests().antMatchers("/").permitAll();
     }
 
+    /**Not used testing.*/
     public void justChecking() {
+
+        String name;
+
+        if (name.equals("wererwe")) {
+            String.format("This will throw an NPE, let's see if it catches ist");
+        }
 
     }
 
