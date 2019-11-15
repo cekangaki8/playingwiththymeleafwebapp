@@ -17,7 +17,8 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
     public void justChecking() {
 
         String name;
-
+        String unusedVariable;
+        Sting misspelledType;
         if (name.equals("wererwe")) {
             String.format("This will throw an NPE, let's see if it catches ist");
         }
