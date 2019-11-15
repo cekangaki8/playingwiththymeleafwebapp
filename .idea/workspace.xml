@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fbcf103-87ec-41c8-b0cd-2aa547e81624" name="Default" comment="Added first index controller" />
+    <list default="true" id="9fbcf103-87ec-41c8-b0cd-2aa547e81624" name="Default" comment="Added first index controller">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +148,7 @@
       <option name="presentableId" value="Default" />
       <updated>1512606100921</updated>
       <workItem from="1512606104273" duration="6819000" />
-      <workItem from="1573767609945" duration="8295000" />
+      <workItem from="1573767609945" duration="8559000" />
     </task>
     <task id="LOCAL-00001" summary="Added first index controller">
       <created>1512609420878</created>
